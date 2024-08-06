@@ -23,7 +23,7 @@ with st.sidebar:
     - [OpenAI](https://platform.openai.com/docs/models) LLM model
     ''')
     add_vertical_space(5)
-    st.write('Made by Madhav')
+    st.write('Made by Mathangi')
 
 def main():
     st.header("Chat with PDF")
